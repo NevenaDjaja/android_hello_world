@@ -10,6 +10,10 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:text="@string/hello_world"
-        android:textSize="25sp" />
+        android:textSize="25sp" 
+        android:layout_centerInParent="true"
+        android:textColor="#674998"
+        android:gravity="center"
+        />
 
 </RelativeLayout>
